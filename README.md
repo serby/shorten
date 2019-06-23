@@ -2,7 +2,7 @@
 
 A JavaScript implementation of [flickr's](http://www.flickr.com/groups/api/discuss/72157616713786392/) ID shortener.
 
-[![build status](https://secure.travis-ci.org/serby/###.png)](http://travis-ci.org/serby/shortern)
+[![build status](https://secure.travis-ci.org/serby/###.png)](http://travis-ci.org/serby/shortern) [![Greenkeeper badge](https://badges.greenkeeper.io/serby/shorten.svg)](https://greenkeeper.io/)
 
 ## Installation
 
